@@ -32,6 +32,3 @@ elif Num >= Den:
     mixnum = a//b
     if Num%Den == 0 :
         print(f"The whole number is {mixnum}")
-    else:
-           a = a-(b*mixnum)
-           print(f"The mixed number is {mixnum} and", frac (a,b))
